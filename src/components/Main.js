@@ -11,6 +11,8 @@ export default function Main() {
                 <li>Is maintained by Facebook</li>
                 <li>Powers thousands of enterprise apps, including mobile apps</li>
                 <li>MOST HIREABLE SKILL EVER NIGGAS</li>
+                <li>TESTING CI/CD</li>
+
             </ul>
         </main>
     )
